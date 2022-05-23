@@ -8,3 +8,5 @@ maybe I suceed
 Lets try once more
 and more...
 Finally! smth good with Git. Starting to get a hang of it :)))
+
+Had a weeks vacation- getting started again fresh
