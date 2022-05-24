@@ -6,6 +6,19 @@ text-align:center;
 font-size:69px;
 font-weight: bold;}
 
-p{color: rgb(69, 5, 82);
-text-align: right;
-}
+.doggo 
+{display:block;
+margin-left: auto;
+margin-right: auto;
+width: 35%;}
+
+.pork {text-align: right;
+font-size: 30px;
+
+  }
+
+.chicken {text-align: left;
+    font-size: 30px;}
+
+.wok {text-align: center;
+    font-size: 30px;}
